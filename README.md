@@ -7,4 +7,4 @@ para rodar esse projeto em sua máquina, por favor digite:
 ```
 npm install react
 ```
-<h1>Quero almoçar</h1>
+<center><h1>Outback</h1></center>
